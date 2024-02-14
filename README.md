@@ -37,7 +37,7 @@
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Technical Skills..</h4>
 <p >
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,jquery,bootstrap,react,nodejs,expressjs,gcp,aws,azure,mysql,postgresql,mongodb,firebase,tensorflow,docker,github,postman,replit,git=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,jquery,bootstrap,tailwind,react,nodejs,expressjs,gcp,aws,azure,mysql,postgresql,mongodb,firebase,ai,tensorflow,docker,github,postman,replit,linux,git,=8" />
 
  
 </p>
