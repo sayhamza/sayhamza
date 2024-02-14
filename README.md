@@ -8,9 +8,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 
-- 🧠 Callme: **_He/Him_** or **_TeamWorker_** 😊 <br>
-
-- 🤔 I use daily `.js`,`.css`, `.html`
+- 🤔 I use daily `Java`,`JS`, `Python`
 - 🛠 I’m currently learning about **Software Developement**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
@@ -75,45 +73,3 @@
   
 
 </p>
-<hr>
-
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Rajgupta7080}/count.svg" alt="Rajgupta7080 :: Visitor's Count" /></p>
-
-<hr>
-
- <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<p align="left">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
-</p>
-
-<p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajgupta7080&theme=chartreuse-dark"  />
-</p>
- 
-<p>
-
-<br/>
-
-<hr clear="both">
- <br/>
-<p align="center">
-<a href="https://github.com/Rajgupta7080"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajgupta7080&theme=dracula" />
-</span></a> </p>
-
- <br/>
- <br/>
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Rajgupta7080&theme=vue" alt=""/> </p>
-
-<hr clear="both">
-
-### 😜Here's a Joke for you:
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
