@@ -53,12 +53,5 @@
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
  <br/>
- 
 </p>
-<hr>
-<p>
-  
- <br/>
-  
 
-</p>
