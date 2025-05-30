@@ -8,8 +8,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 
-- 🤔 I use daily `Java`,`JS`, `Python`
-- 🛠 I’m currently learning about **Software Developement**🥰<br>
+- 🤔 I use daily `Python`,`Java`.
+- 🛠 I’m currently learning about **AI/ML**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
